@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+#game-screen {
+    margin: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+h1 {
+    justify-content: center;
+    text-align: center;
+    font-size: 100px;
+    width: 1200px;
+    color: black;
+}
+
+button {
+
+    width: 100%;
+    font-size: 80px;
+    color: aqua;
+    border: 5px solid salmon;
+    text-align: center;
+    justify-content: center;
+
+}
